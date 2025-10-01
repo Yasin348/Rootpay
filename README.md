@@ -39,6 +39,9 @@ CTA (Call To Action) con gradiente y sombra.
 
 Media query @media (max-height:740px) para compactar el layout en pantallas bajas.
 
+3- Vista Previa
+
+<img width="682" height="671" alt="Captura de pantalla 2025-10-01 114409" src="https://github.com/user-attachments/assets/d7b17077-73a5-42f9-be99-d00b962db6f0" />
 
 Licencia
 
