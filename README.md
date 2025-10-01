@@ -17,7 +17,7 @@ Asegúrate de que la imagen images/logo-rootpay.png esté en la ruta correcta.
 
 Variables de tema en :root (colores, tamaños).
 
-Fondo con gradients en <body> inspirado en el prototipo de Figma:
+Fondo con gradients  <body> inspirado en el prototipo de Figma:
 
 body {
   background:
